@@ -36,7 +36,7 @@ User → Domain → Route 53 → EC2 → Website
 
 ## 🖼️ Project Image
 
-![AWS Route 53 Architecture](route53.png)
+![AWS Route 53 Architecture](route53.png.png)
 
 ---
 
